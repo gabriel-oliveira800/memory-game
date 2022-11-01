@@ -4,9 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "da8f3e7a55d90a3865c5ec5be7bf1fa9",
-"index.html": "9faedac9ab880354353bc34a70832b9c",
-"/": "9faedac9ab880354353bc34a70832b9c",
+"index.html": "03bef9fe5f6206ea9a928239305b56f7",
+"/": "03bef9fe5f6206ea9a928239305b56f7",
 "main.dart.js": "be8b2030416a9db9b56a25f5f08567c4",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -27,7 +28,11 @@ const RESOURCES = {
 "assets/assets/images/star.svg": "829f101d0e29a5d26a70e556e68c0e31",
 "assets/assets/sounds/background-music.mp3": "eda946f94030833511caaa4ab97b8836",
 "assets/assets/sounds/button-click.wav": "3659770cb244f0efc98c9e7adb3c0ac9",
-"assets/assets/fonts/Fredoka-Regular.ttf": "3bedad0d6c10559248abbc4831c67860"
+"assets/assets/fonts/Fredoka-Regular.ttf": "3bedad0d6c10559248abbc4831c67860",
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
 };
 
 // The application shell files that are downloaded before a service worker can
